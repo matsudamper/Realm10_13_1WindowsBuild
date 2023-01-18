@@ -1,5 +1,5 @@
-Build fails with -transformer-api in Windows.
-Include kotlin code and use id("realm-android") in submodule.
+Build fails with -transformer-api in Windows.  
+Include kotlin code and use id("realm-android") in submodule.  
 
 <details>
 <summary>Stack Trace</summary>
